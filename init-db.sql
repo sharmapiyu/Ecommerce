@@ -1,0 +1,3 @@
+-- Initialize database
+-- Note: Tables will be created automatically by Spring Boot JPA (ddl-auto: update)
+-- Roles and other data should be inserted via the application API after startup
